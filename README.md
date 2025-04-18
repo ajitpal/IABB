@@ -270,7 +270,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-- **Maintainer**: [Ajit] (ajitonmail@gmaol.com)
+- **Maintainer**: [Ajit] (ajitonmail@gmail.com)
 - **GitHub Issues**: Report bugs or suggest features 
 - **Community**: Join our [Discord Server]  for discussions
 
